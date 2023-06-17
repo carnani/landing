@@ -1,5 +1,5 @@
 function saludo() {
-  alert("Hola Marte");
+  alert("Hola Nuevo Mundo");
   var nombre = prompt("ingrese su nombre: ");
   alert("hola " + nombre);
 }
